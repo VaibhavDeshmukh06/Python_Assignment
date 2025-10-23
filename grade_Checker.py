@@ -12,6 +12,9 @@ elif marks >= 70:
 elif marks >=60:
     Grade = "D"
 
+elif marks >= 50:
+    Grade = "E"
+
 else:
     Grade = "F"
 
